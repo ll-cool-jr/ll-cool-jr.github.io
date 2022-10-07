@@ -1,1 +1,1 @@
-# <ll-cool-jr.github.io>
+#[ll-cool-jr.github.io]
